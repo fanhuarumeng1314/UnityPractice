@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a19711baca1f45e42ab992456d43ffac
+timeCreated: 1505463474
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DuanNing-XIng
+  fontNames:
+  - DuanNing-XIng
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
